@@ -37,10 +37,9 @@ function breakingRecords(scores) {
     // console.log(counter);
     return counter;
 }
-
 let record;
 //record = breakingRecords([2,30,21,12,5,4,1,87,65]);
 record = breakingRecords([10,5,20,20,4,5,2,25,1]);
 console.log(record);
-
 //console.log('hello');
+//remote check done
